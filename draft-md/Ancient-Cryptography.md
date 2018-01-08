@@ -25,3 +25,8 @@ Alice and Bob have hence managed to communicate in secrecy even if Eve intercept
 In this analogy, locking the box to conceal the message being sent is equivalent to Encryption and unlocking the box to reveal the message is equivalent to decryption.
 
 Encrypted messages are encrypted such that Eve, the evesdropper is unable to learn about the message even if intercepted.	
+
+Cryptography has been around for thousands of years.
+It has often been the deciding factor to deciding the outcome of World wars and what we now know as secure communication alike.
+
+Cryptography is mainly used to protect privacy among many other use cases we see in real life.
